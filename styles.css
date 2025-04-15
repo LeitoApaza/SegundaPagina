@@ -3,8 +3,11 @@ body{
  font-family: 'Trebuchet MS';    
 }
 
-
-
+h1{    
+font-family: fantasy;
+min: height 20px;
+border:2px solid blue
+}
 
 header{
 min: height 20px;
